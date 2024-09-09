@@ -30,29 +30,31 @@
 #### Repository 
 
 * `data` 
-    - contains link to copy of the dataset (stored in a publicly accessible cloud storage)
-    - saved copy of aggregated / processed data as long as those are not too large (> 10 MB)
+    - Raw Data: This file contains the link to 'recipe_dataset.csv' which is needed to replicate the data loading, initial cleaning and EDA of the dataset. Please follow the shared link below to download the 'recipe_dataset.csv' file: https://drive.google.com/drive/folders/18XU1JigGi1XM6hb6qZ_EiBD4UPpUsIT_
+
+    - Final Preprocessed Data TBD: saved copy of aggregated / processed data as long as those are not too large (> 10 MB)
 
 * `model`
     - `joblib` dump of final model(s)
+    - Baseline model: Content Based Recommendation System with reduced dataframe.
 
 * `notebooks`
-    - contains all final notebooks involved in the project
+    - TBD: contains all final notebooks involved in the project
 
 * `docs`
-    - contains final report, presentations which summarize the project
+    - TBD: contains final report, presentations which summarize the project
 
 * `references`
-    - contains papers / tutorials used in the project
+    - TBD: contains papers / tutorials used in the project
 
 * `src`
-    - Contains the project source code (refactored from the notebooks)
+    - TBD: Contains the project source code (refactored from the notebooks)
 
 * `.gitignore`
     - Part of Git, includes files and folders to be ignored by Git version control
 
 * `conda.yml`
-    - Conda environment specification
+    - capstone_env.yml file included in the capstone files.
 
 * `README.md`
     - Project landing page (this page)
