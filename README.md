@@ -12,7 +12,7 @@
 ### Demo
 
 Please see below a preview of my streamlit app:
-![Preview of my Streamlit App](streamlit_app_preview.jpeg)
+![Preview of my Streamlit App](docs/streamlit_app_preview.jpeg)
 
 
 ### Methodology
