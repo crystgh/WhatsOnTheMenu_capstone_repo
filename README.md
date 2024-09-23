@@ -71,9 +71,11 @@ Please see below a preview of my streamlit app:
 
 #### Dataset
 
-Raw data: https://drive.google.com/file/d/1DlGpPBCo_N-PkD8fi-nR-8jt51Q2zlMV/view?usp=drive_link
-Final preprocessed data: https://drive.google.com/file/d/1UiSlRW5jgBxF9VDmRLukwIoj9gLrSCLT/view?usp=drive_link 
-Final model files: https://drive.google.com/drive/folders/1NhLVdBMhsIQcWTyQBBoGxJNKNzdW5u-P?usp=sharing 
+**Raw data:** https://drive.google.com/file/d/1DlGpPBCo_N-PkD8fi-nR-8jt51Q2zlMV/view?usp=drive_link
+
+**Final preprocessed data:** https://drive.google.com/file/d/1UiSlRW5jgBxF9VDmRLukwIoj9gLrSCLT/view?usp=drive_link 
+
+**Final model files:** https://drive.google.com/drive/folders/1NhLVdBMhsIQcWTyQBBoGxJNKNzdW5u-P?usp=sharing 
 
 ### Taste Tests and What is Next on the Menu?
 
@@ -86,8 +88,11 @@ In the future, I would like to try additional modeling techniques for text proce
 I would like to extend my gratitude to the following individuals and resources, whose support and guidance were vital in the successful completion of this project:
 
 **BrainStation Educators**: Thank you for all of your support and encouragement throughout this journey! You were a key part in the successful completion of this project by laying out guiding steps that helped me overcome many of the challenges that this capstone posed.
+
 **Family**: Thank you to my family for your unconditional support, and keeping me motivated and healthy throughout the duration of this project!
+
 **RecipeNLG**: The substantial dataset posted on [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/recipenlg) served as the foundation of this project.
+
 **Online Communities**: Platforms like Stack Overflow, GitHub and Youtube served as helpful communities where I was able to draw ideas from to try on my own project, which allowed me to tackle some of the complexities presented.
 
 I am really grateful to all for your contribution and involvement in this project. 
